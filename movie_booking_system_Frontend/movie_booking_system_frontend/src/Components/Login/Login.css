@@ -1,0 +1,15 @@
+/* Login.css */
+
+/* Optional styling for better alignment and spacing */
+.container-fluid {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img.img-fluid {
+    max-height: 500px;
+    margin: auto;
+  }
+  
